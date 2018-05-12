@@ -1,0 +1,35 @@
+_repo: Domestic-French-Cookery-4th-ed._34837
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barué, Sulpice
+    alias: Barue, Sulpice
+    gutenberg_agent_id: '37265'
+    url: http://www.gutenberg.org/2009/agents/37265
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34837'
+  lccn: '44019364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, French'
+title: Domestic French Cookery, 4th ed.
+url: http://www.gutenberg.org/ebooks/34837
