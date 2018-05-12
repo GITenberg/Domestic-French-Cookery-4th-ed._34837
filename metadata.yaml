@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '37265'
     url: http://www.gutenberg.org/2009/agents/37265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34837#Domestic-French-Cookery-4th-ed.
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
